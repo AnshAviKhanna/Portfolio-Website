@@ -9,3 +9,6 @@ install npm
 git clone "repository link"
 
 npm start
+
+## Code
+Refer to 'master' branch
