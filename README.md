@@ -1,2 +1,11 @@
-# Portfolio-Website
-Created my portfolio using React and tailwind css. 
+# Portfolio-Website | https://anshavikhanna.netlify.app/
+
+## Tech Stack
+React | Tailwind CSS
+
+## How to run project code
+install npm
+
+git clone "repository link"
+
+npm start
