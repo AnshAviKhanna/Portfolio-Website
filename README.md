@@ -3,12 +3,12 @@
 ## Tech Stack
 React | Tailwind CSS
 
+## Code
+Refer to 'master' branch
+
 ## How to run project code
 install npm
 
 git clone "repository link"
 
 npm start
-
-## Code
-Refer to 'master' branch
