@@ -9,6 +9,6 @@ Refer to 'master' branch
 ## How to run project code
 install npm
 
-git clone "repository link"
+git clone <repository link>
 
 npm start
